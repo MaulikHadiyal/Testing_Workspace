@@ -1,1 +1,51 @@
+1.	Open the homepage of Zomato or Flipkart in your browser and carefully review it for any visible errors, bugs, or defects (such as broken images, misaligned buttons, typos, or non-working links). List at least 3 issues you observe and describe why you think each one is a defect.
+Ans=>
+Website: Flipkart
+       1: Banner image loads slowly or some time blank
+2.	Category cards is misaligned after browser zoom like 110-175% zoom
+3.	“View More” button not clickable on first click. Some time after refresh. Its not working.
+
+2.  Write a short explanation (2-3 sentences each) for the following: What is the difference between an error, a bug, and a defect? Give one real-world example for each from any app you use daily (e.g., Instagram, Paytm, IRCTC).
+Ans=>
+Error
+“A mistake in coding is called error.”
+Example; A developer mistakely calculates discount as 5%  of 50% in a paytm app.
+Bug
+“defect accepted by development team then it is called bug.”
+Example; in IRCTC some time working or some time showing 500 error.
+       Defect
+“error found by tester is called defect”
+Example: On IRCTC user payment succeeds but ticket not showing its find tester.
+
+3.	Think of a recent time when an app you use (like WhatsApp, BookMyShow, or PhonePe) didn't work as expected. Identify the possible cause of the defect: was it a human error, a technical limitation, or a process gap? Explain your reasoning for each case.<br><br><em><strong>Hint:</strong> Consider examples like payment failures, app crashes, or incorrect notifications.</em>	
+
+Ans=>
+1.	Payment failure in PhonePe
+Payment deduct but confirmation massage is delayed.
+Possible Cause: payment limitation.
+Reason : server time out, network speed duo to may transaction  delay.
+2.	Book my show aap crash.
+When book ticket automatically app crash.
+Possible cause: development error.
+      Reason : developer may include unstable code during recent update.
+3.	Whatsapp post    
+When post img some time not respond.
+Possible cause: server error.
+
+Reason: server may some time not response  or maintenance 
+
+4.  You are given a mini project: a Movie Ticket Booking webpage. Classify the following as either a defect or a risk: (a) The 'Book Now' button does not respond on mobile, (b) There is no logout option, (c) The app sometimes loads slowly during IPL match days. Justify your answer for each.
+Ans=> (a) The 'Book Now' button does not respond on mobile
+	This is a confirmed functional issue. The button exists but does not perform its expected action on mobile devices ,so it’s a defect.
+
+              b) There is no logout option.
+	=> this is development issue. The logout option not exists is kind of heavy risk 
+	For security. It’s a defect and risk also. 
+	
+	C) The app sometimes loads slowly during IPL match days.
+	=> this is a server error. The app loads slowly some time to its affects on           customers. And heavy lose. It’s a risk.
+
+
+
+
 
